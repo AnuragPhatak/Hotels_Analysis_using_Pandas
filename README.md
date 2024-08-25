@@ -10,3 +10,6 @@ Key Analyses
 6. Year-wise Comparison of Weekend vs Weekday Hotel Stays for 2016 and 2017 by Month
 
 This analysis highlights significant differences in customer behavior, booking patterns, and cancellation trends between Resort and City Hotels. These insights can inform targeted marketing efforts and improve operational efficiency.
+
+<img width="754" alt="Screenshot 2024-08-25 183652" src="https://github.com/user-attachments/assets/e32f06f3-e884-4577-b0cf-6ccafae2fc5c">
+

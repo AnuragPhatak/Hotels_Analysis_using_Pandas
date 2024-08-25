@@ -13,3 +13,22 @@ This analysis highlights significant differences in customer behavior, booking p
 
 <img width="754" alt="Screenshot 2024-08-25 183652" src="https://github.com/user-attachments/assets/e32f06f3-e884-4577-b0cf-6ccafae2fc5c">
 
+
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/184c7b24-c352-4a0c-862d-a4a2ea091c6b">
+
+
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/353719f5-3463-4c2b-a886-1d02ffdf5a2e">
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/f86ea12c-f2a2-4e94-b96c-ff201c86973f">
+
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/0db591b9-ef20-4051-9b58-4b49d53b87c0">
+
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/e987409b-1843-4cf1-bc29-84211837278b">
+
+
+
+
+
+
+
+
